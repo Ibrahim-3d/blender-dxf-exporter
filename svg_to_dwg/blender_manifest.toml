@@ -1,17 +1,21 @@
 schema_version = "1.0.0"
 
-id      = "dxf_exporter"
-version = "1.0.0"
-name    = "DXF Exporter — Curves & Grease Pencil"
-tagline = "Export curves and grease pencil to AutoCAD DXF"
+id      = "dxf_dwg_exporter"
+version = "1.1.0"
+name    = "DXF / DWG Exporter — Curves & Grease Pencil"
+tagline = "Export Blender curves and grease pencil objects to AutoCAD DXF or DWG"
 
 maintainer = "SVG to DWG Project"
 type       = "add-on"
 license    = ["SPDX:GPL-3.0-or-later"]
+website    = "https://github.com/Ibrahim-3d/svg-to-dwg"
 
 blender_version_min = "3.6.0"
 
 tags = ["Import-Export", "Grease Pencil", "Curve"]
 
 [permissions]
-files = "Write DXF files to disk"
+files = "Write DXF/DWG files to disk and run LibreDWG's dxf2dwg converter"
+
+[build]
+paths_exclude_pattern = ["__pycache__/", "*.pyc"]

@@ -19,8 +19,8 @@ class SVGTODWG_PG_export_settings(bpy.types.PropertyGroup):
         name="Output Format",
         description="File format to produce.\n"
                     "DXF  — text-based, opens in AutoCAD just like DWG.\n"
-                    "DWG  — binary Autodesk format; requires ODA File Converter "
-                    "(free) configured in addon Preferences",
+                    "DWG  — binary Autodesk format; requires LibreDWG "
+                    "(open source) — see addon Preferences for setup",
         items=[
             ("DXF", "DXF (.dxf)",
              "AutoCAD Drawing Exchange Format — opens natively in AutoCAD"),
