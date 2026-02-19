@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.zip
+svg_to_dwg/bin/*.exe
+svg_to_dwg/bin/*.dll

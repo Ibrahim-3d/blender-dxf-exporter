@@ -1,0 +1,11 @@
+To enable DWG export, place LibreDWG binaries in this folder.
+
+Steps:
+  1. Go to  https://github.com/LibreDWG/libredwg/releases
+  2. Download the latest  libredwg-*-win64.zip
+  3. Extract the ZIP
+  4. Copy these files into THIS folder:
+       - dxf2dwg.exe
+       - libredwg-0.dll   (or whichever .dll files are included)
+
+LibreDWG is free open-source software (GPLv3+).

@@ -1,0 +1,17 @@
+schema_version = "1.0.0"
+
+id      = "dxf_exporter"
+version = "1.0.0"
+name    = "DXF Exporter — Curves & Grease Pencil"
+tagline = "Export curves and grease pencil to AutoCAD DXF"
+
+maintainer = "SVG to DWG Project"
+type       = "add-on"
+license    = ["SPDX:GPL-3.0-or-later"]
+
+blender_version_min = "3.6.0"
+
+tags = ["Import-Export", "Grease Pencil", "Curve"]
+
+[permissions]
+files = "Write DXF files to disk"
