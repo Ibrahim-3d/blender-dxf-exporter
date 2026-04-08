@@ -3,3 +3,4 @@ __pycache__/
 *.zip
 dxf_dwg_exporter/bin/*.exe
 dxf_dwg_exporter/bin/*.dll
+BLENDER_ADDON_DOCUMENTATION.md
