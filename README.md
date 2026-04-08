@@ -35,7 +35,7 @@ DWG output uses [LibreDWG](https://github.com/LibreDWG/libredwg) (open-source, G
 
 ## Installation
 
-1. Download `svg_to_dwg.zip` from [Releases](https://github.com/Ibrahim-3d/blender-dwg-exporter/releases)
+1. Download `dxf_dwg_exporter.zip` from [Releases](https://github.com/Ibrahim-3d/blender-dxf-exporter/releases)
 2. In Blender: **Edit > Preferences > Add-ons > Install** (dropdown arrow, top-right) > select the zip
 3. Enable the checkbox next to **"DXF / DWG Exporter — Curves & Grease Pencil"**
 
@@ -88,4 +88,4 @@ This project is licensed under the [GNU Affero General Public License v3.0](LICE
 
 ## Third-Party Notices
 
-This addon optionally uses [LibreDWG](https://github.com/LibreDWG/libredwg) for DWG conversion, which is licensed under GPLv3+. See [THIRD_PARTY_NOTICES.md](svg_to_dwg/THIRD_PARTY_NOTICES.md) for details.
+This addon optionally uses [LibreDWG](https://github.com/LibreDWG/libredwg) for DWG conversion, which is licensed under GPLv3+. See [THIRD_PARTY_NOTICES.md](dxf_dwg_exporter/THIRD_PARTY_NOTICES.md) for details.

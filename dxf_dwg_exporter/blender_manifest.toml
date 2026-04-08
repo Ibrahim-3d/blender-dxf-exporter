@@ -5,10 +5,10 @@ version = "1.1.0"
 name    = "DXF / DWG Exporter — Curves & Grease Pencil"
 tagline = "Export Blender curves and grease pencil objects to AutoCAD DXF or DWG"
 
-maintainer = "SVG to DWG Project"
+maintainer = "Ibrahim-3d"
 type       = "add-on"
 license    = ["SPDX:GPL-3.0-or-later"]
-website    = "https://github.com/Ibrahim-3d/svg-to-dwg"
+website    = "https://github.com/Ibrahim-3d/blender-dxf-exporter"
 
 blender_version_min = "3.6.0"
 

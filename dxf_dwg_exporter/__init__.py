@@ -1,6 +1,6 @@
 bl_info = {
     "name":        "DXF / DWG Exporter — Curves & Grease Pencil",
-    "author":      "SVG to DWG Project",
+    "author":      "Ibrahim-3d",
     "version":     (1, 1, 0),
     "blender":     (3, 6, 0),
     "location":    "File > Export > AutoCAD DXF / DWG  |  3D Viewport > Sidebar > DXF Export",
