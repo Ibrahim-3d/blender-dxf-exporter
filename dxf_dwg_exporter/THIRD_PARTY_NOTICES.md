@@ -1,6 +1,10 @@
 # Third-Party Notices
 
-This addon bundles the following open-source software:
+Optional DWG conversion may use the following open-source components.
+The current tracked `bin/` directory contains a placement instruction only;
+these entries describe converter components, not a claim that every binary
+listed below is bundled in this repository or every release. Preserve the
+actual distribution's version-specific notices and complete license texts.
 
 ---
 
@@ -45,5 +49,7 @@ Source code is available at: https://github.com/PCRE2Project/pcre2
 This addon as a whole is distributed under the
 **GNU General Public License v3.0 or later (GPL-3.0-or-later)**.
 
-The full text of the GPL-3.0 license is available at:
-https://www.gnu.org/licenses/gpl-3.0.html
+The complete GPL-3.0 text is included in `COPYING` alongside this file.
+The program grant is in `LICENSE.txt`. Before bundling optional converter
+binaries, comply with the actual components' notice and source-delivery
+requirements; the links above do not replace those obligations.

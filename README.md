@@ -72,6 +72,8 @@ Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before
 
 ## License
 
-[AGPL-3.0-or-later](LICENSE)
+[GPL-3.0-or-later](LICENSE), consistent with the Blender manifest.
+The installable add-on includes its program grant and complete GPL text.
+See [LICENSING.md](LICENSING.md) for historical rights and packaging requirements.
 
-This addon optionally uses [LibreDWG](https://github.com/LibreDWG/libredwg) for DWG conversion (GPLv3+). See [THIRD_PARTY_NOTICES.md](dxf_dwg_exporter/THIRD_PARTY_NOTICES.md) for full attribution.
+This addon optionally uses [LibreDWG](https://github.com/LibreDWG/libredwg) for DWG conversion (GPLv3+). See [THIRD_PARTY_NOTICES.md](dxf_dwg_exporter/THIRD_PARTY_NOTICES.md) for attribution and optional-binary distribution requirements.
